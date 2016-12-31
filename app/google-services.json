@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922284139978",
+    "firebase_url": "https://fir-test-ede42.firebaseio.com",
+    "project_id": "fir-test-ede42",
+    "storage_bucket": "fir-test-ede42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922284139978:android:d018783f6ca98f2a",
+        "android_client_info": {
+          "package_name": "akarsh.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922284139978-3au635p76t0uhs7rk6sc5bj0qnemp9dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        { "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
